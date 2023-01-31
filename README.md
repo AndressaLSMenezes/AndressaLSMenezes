@@ -1,35 +1,11 @@
 <div align="center">
 
-# Olá, seja bem vindo ao meu perfil 😊
+# Olá, seja bem vindo ao meu perfil!
 </div>
 
-<img width="100%" src="https://i.pinimg.com/originals/67/5b/b6/675bb6b2ea36a6d4f5c32ffc9744147d.gif">
+Sou uma desenvolvedora full stack apaixonada por resolver problemas e criar soluções incríveis. Tenho habilidades em JavaScript, TypeScript, React, Styled Components, Tailwind, NodeJS, Express, Python e Django. 
 
- <h1 align="center">✨ Fatos sobre mim: </h1>
-
-* 👋 Meu nome é Andressa Menezes; 
-
-* Sou de Angra dos Reis/RJ;
-* Sou desenvolvedora Front-End;
-* Sou estudante do curso de <strong>Desenvolvimento Web Full-Stack da Kenzie Academy</strong>.
-
-<br>
-<br>
-
-<div align="center">
-
-## 💻 Tenho experiência em:
-<br>
-  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
-</div>
-
+Em meu Github, você pode encontrar meus projetos pessoais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor. Fique à vontade para dar uma olhada em meu perfil e não hesite em me contatar para discussões sobre projetos futuros!
 <br>
 <br>
 <br>
@@ -50,13 +26,13 @@
 
 ##  ⚙️ GitHub Analytics
 
-  <a href="https://github.com/AndressaLSMenezes">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=AndressaLSMenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLSMenezes&layout=compact&langs_count=7&theme=tokyonight"/>
-   
-   <br>
-<br>
-
-  ![Snake animation](https://github.com/AndressaLSMenezes/AndressaLSMenezes/blob/output/github-contribution-grid-snake.svg)
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaLSMenezes" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndressaLSMenezes&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
+
+  <!-- <a href="https://github.com/AndressaLSMenezes">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=AndressaLSMenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLSMenezes&layout=compact&langs_count=7&theme=tokyonight"/> -->
+   
