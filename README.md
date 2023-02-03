@@ -27,8 +27,7 @@ Em meu Github, você pode encontrar meus projetos pessoais. Estou sempre em busc
 ##  ⚙️ GitHub Analytics
 
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaLSMenezes" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndressaLSMenezes&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndressaLSMenezes&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 
