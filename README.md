@@ -1,7 +1,8 @@
-<div align="center">
 
-# Olá, seja bem vindo ao meu perfil!
-</div>
+ <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=821BFD&background=2E0A3000&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
+ </div>
+</center>
 
 Sou uma desenvolvedora full stack apaixonada por resolver problemas e criar soluções incríveis. Tenho habilidades em JavaScript, TypeScript, React, Styled Components, Tailwind, NodeJS, Express, Python e Django. 
 
@@ -22,12 +23,17 @@ Em meu Github, você pode encontrar meus projetos pessoais. Estou sempre em busc
 <br>
 <div align="center" >
  
- 
-
 ##  ⚙️ GitHub Analytics
-
- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndressaLSMenezes&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gift's language" height="192px"  width="500px"/>
+ <br>
+ <!---
+gbdnz/gbdnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<div align="center">
+<div> <a href="https://github.com/gabrieladnz">
+<img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaLSMenezes&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndressaLSMenezes&show_icons=true&theme=midnight-purple"/>
+</div>
 </div>
 
 
