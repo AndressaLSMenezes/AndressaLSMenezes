@@ -30,7 +30,7 @@ gbdnz/gbdnz is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<div> <a href="https://github.com/gabrieladnz">
+<div> <a href="https://github.com/AndressaLSMenezes">
 <img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaLSMenezes&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndressaLSMenezes&show_icons=true&theme=midnight-purple"/>
 </div>
